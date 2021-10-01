@@ -1,1 +1,4 @@
 # DepthAveragedTurbulence
+
+
+![top](out.gif) 
